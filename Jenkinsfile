@@ -50,4 +50,4 @@ node {
 }
 
 
-# this is for testing
+# this is for kubernetes testing
