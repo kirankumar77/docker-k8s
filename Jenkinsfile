@@ -50,4 +50,4 @@ node {
 }
 
 
-# this is for kittu development testing
+# this is for kittu testing
